@@ -39,33 +39,19 @@ const Main = (props) => {
                     </div>
 
                     <ul>
-                        <NavLink to="/account" 
-                        activeStyle={{
-                            fontWeight: "bold",
-                            color: "#F7FAFB"
-                        }}>
+                        <NavLink to="/account">
                             Аккаунт
                         </NavLink>
 
-                        <NavLink to="/vps" 
-                        activeStyle={{
-                        fontWeight: "bold",
-                        color: "#F7FAFB"
-                        }}>
+                        <NavLink to="/vps">
                             VPS
                         </NavLink>
 
-                        <NavLink to="/domains" activeStyle={{
-                        fontWeight: "bold",
-                        color: "#F7FAFB"
-                        }}>
+                        <NavLink to="/domains">
                             Домены
                         </NavLink>
 
-                        <NavLink to="/support" activeStyle={{
-                        fontWeight: "bold",
-                        color: "#F7FAFB"
-                        }}>
+                        <NavLink to="/support">
                             Поддержка
                         </NavLink>
                     </ul>

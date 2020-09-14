@@ -23,26 +23,15 @@ const Support = (props) => {
                 <hr class="rounded"></hr>
                 <nav className="content-nav">
                     <ul>
-                        <NavLink to="/order" 
-                        activeStyle={{
-                            fontWeight: "bold",
-                            color: "#062436"
-                        }}>
+                        <NavLink to="/order">
                             Заявка
                         </NavLink>
 
-                        <NavLink to="/templates" 
-                        activeStyle={{
-                        fontWeight: "bold",
-                        color: "#062436"
-                        }}>
+                        <NavLink to="/templates">
                             Шаблоны
                         </NavLink>
 
-                        <NavLink to="/history" activeStyle={{
-                        fontWeight: "bold",
-                        color: "#062436"
-                        }}>
+                        <NavLink to="/history">
                             История заявок
                         </NavLink>
                     </ul>
