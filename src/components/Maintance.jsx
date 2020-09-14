@@ -17,7 +17,7 @@ const Maintance = (props) => {
                             Цель: проверить верстку по макету и знания
                             ReactJS.
                             <br/><br/>
-                            ❌Статьи в виде XML находится по ссылке <a href="https://sweb.ru/export/turbojournal/">https://sweb.ru/export/turbojournal/</a>
+                            ✅Статьи в виде XML находится по ссылке <a href="https://sweb.ru/export/turbojournal/">https://sweb.ru/export/turbojournal/</a>
                             <br/>
                             где заголовок содержится в тэге: <br/>
                             <code>
@@ -47,7 +47,7 @@ const Maintance = (props) => {
                             ❌Шрифт Proxima Nova (как на основном сайте https://sweb.ru/ ), иконки и
                             элементы можно взять отдельно в файле «UIKit _ Компоненты.png»
                             <hr/>
-                            ✅ Тестовые данные <a href="https://jsonplaceholder.typicode.com/posts">JSONPlaceholder</a><br/> <br/>
+                            {/* ✅ Тестовые данные <a href="https://jsonplaceholder.typicode.com/posts">JSONPlaceholder</a><br/> <br/> */}
                             ✅ <b>БЕСПЛАТНЫЙ</b> шрифт Montserrat
                         </div>
                     </div>
