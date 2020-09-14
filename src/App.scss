@@ -99,6 +99,9 @@
             font-size: 1.3em;
             margin-bottom: 15px;
             color: #fff;
+            &:hover {
+                color: #36BDF7;
+            }
         }
         li {
             margin-bottom: 15px;
@@ -209,5 +212,11 @@
         }
         summary::-webkit-details-marker {
             display: none;
+        }
+    }
+    
+    .logo:hover {
+        .icon {
+            fill: #36BDF7;
         }
     }
