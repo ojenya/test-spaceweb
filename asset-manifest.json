@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-spaceweb/static/css/main.53d807bf.chunk.css",
+    "main.css": "/test-spaceweb/static/css/main.a7a1811d.chunk.css",
     "main.js": "/test-spaceweb/static/js/main.101d2f1f.chunk.js",
     "main.js.map": "/test-spaceweb/static/js/main.101d2f1f.chunk.js.map",
     "runtime-main.js": "/test-spaceweb/static/js/runtime-main.b7ee8182.js",
@@ -8,16 +8,16 @@
     "static/js/2.67ceeb4d.chunk.js": "/test-spaceweb/static/js/2.67ceeb4d.chunk.js",
     "static/js/2.67ceeb4d.chunk.js.map": "/test-spaceweb/static/js/2.67ceeb4d.chunk.js.map",
     "index.html": "/test-spaceweb/index.html",
-    "precache-manifest.8eee0a445b815137599543ed3e7ca548.js": "/test-spaceweb/precache-manifest.8eee0a445b815137599543ed3e7ca548.js",
+    "precache-manifest.c15d1e0dec4302c010ac2ebd5c3e33d7.js": "/test-spaceweb/precache-manifest.c15d1e0dec4302c010ac2ebd5c3e33d7.js",
     "service-worker.js": "/test-spaceweb/service-worker.js",
-    "static/css/main.53d807bf.chunk.css.map": "/test-spaceweb/static/css/main.53d807bf.chunk.css.map",
+    "static/css/main.a7a1811d.chunk.css.map": "/test-spaceweb/static/css/main.a7a1811d.chunk.css.map",
     "static/js/2.67ceeb4d.chunk.js.LICENSE.txt": "/test-spaceweb/static/js/2.67ceeb4d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/test-spaceweb/static/media/logo.59a5bfcb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b7ee8182.js",
     "static/js/2.67ceeb4d.chunk.js",
-    "static/css/main.53d807bf.chunk.css",
+    "static/css/main.a7a1811d.chunk.css",
     "static/js/main.101d2f1f.chunk.js"
   ]
 }
