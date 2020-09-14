@@ -10,6 +10,7 @@ import {
 
 
 const Support = (props) => {
+
     const{list} = props
     return (
         <>
@@ -20,7 +21,7 @@ const Support = (props) => {
                 <div className="title">Поддержка</div>
 
                 {/* <div className="separator"></div> */}
-                <hr class="rounded"></hr>
+                <hr className="rounded"></hr>
                 <nav className="content-nav">
                     <ul>
                         <NavLink to="/order">
@@ -47,7 +48,7 @@ const Support = (props) => {
                         </Route>
 
                         <Route path="/history">
-                        {list?list.map((el,i)=>(<Card key={i} {...el}/>)):<div className="fail"></div>}
+                        {list?list.map((el,i)=>(<Card key={i} {...el}/>)):<div  Name="fail"></div>}
                         </Route>
                      
                     </Switch>

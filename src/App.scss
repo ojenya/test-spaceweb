@@ -186,6 +186,13 @@
             padding: $details-padding;
             font-weight: 300;
             line-height: 1.5;
+            header {
+                figure {
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
         }
         summary {
             padding: $details-padding;
